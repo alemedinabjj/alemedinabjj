@@ -6,7 +6,6 @@
 
 🌱 I’m currently learning Typescript/NextJs/ReactJs
 
-😄 Pronouns: Ele/Dele
 
 <div align="center">
 
