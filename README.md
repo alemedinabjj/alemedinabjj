@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **alesurf13@gmail.com**
 
-- 📄 Know about my experiences [Experiences with Next.js, React, Tailwind CSS and TypeScript in a real-world project. You will learn how to build a complete website from scratch, including the backend, and how to deploy it to production. You will also learn how to use the latest technologies and tools, such as Next.js, React, Tailwind CSS, TypeScript, and Vercel.](Experiences with Next.js, React, Tailwind CSS and TypeScript in a real-world project. You will learn how to build a complete website from scratch, including the backend, and how to deploy it to production. You will also learn how to use the latest technologies and tools, such as Next.js, React, Tailwind CSS, TypeScript, and Vercel.)
-
+- 📄 Know about my experiences [Experiences with Next.js, React, Tailwind CSS and TypeScript in a real-world project. You will learn how to build a complete website from scratch, including the backend, and how to deploy it to production. You will also learn how to use the latest technologies and tools, such as Next.js, React, Tailwind CSS, TypeScript, and Vercel.]
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alesmedina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alesmedina" height="30" width="40" /></a>
