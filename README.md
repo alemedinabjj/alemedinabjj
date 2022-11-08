@@ -1,5 +1,5 @@
 
-<h1>Hello World!</h1> 
+<h1>Hello World!</h1> <p>my name is</p> <h2>Alexandre Medina</h2>
     <p>Front end Developer</p>
    <hr>
 🔭 I’m currently working on front-end development
