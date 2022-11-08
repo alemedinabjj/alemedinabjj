@@ -1,4 +1,4 @@
-[![MasterHead](header.png)](header.png)
+[![MasterHead]
 <h3>Hello World!</h3> 
     <p>Front end Developer</p>
    <hr>
