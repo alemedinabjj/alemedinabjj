@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Innovation brindes**
 
-- 🌱 I’m currently learning **Laravel, Vuejs**
-
-- 👯 I’m looking to collaborate on **Valorant pixel**
+- 👯 I’m looking to collaborate on **Infestation** [https://infestation.com.br)
 
 - 🤝 I’m looking for help with **Discord server MCC**
 
