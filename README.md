@@ -27,6 +27,3 @@
 
 ![snake animation](https://github.com/alemedinabjj/alemedinabjj/blob/output/github-contribution-grid-snake2.svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alemedinabjj&show_icons=true&locale=en" alt="alemedinabjj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alemedinabjj&" alt="alemedinabjj" /></p>
