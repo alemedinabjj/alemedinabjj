@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alemedinabjj&show_icons=true&locale=en&layout=compact" alt="alemedinabjj" /></p>
 
-![snake animation](https://github.com/<alemedinabjj>/<alemedinabjj>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/alemedinabjj/alemedinabjj/blob/output/github-contribution-grid-snake2.svg)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alemedinabjj&show_icons=true&locale=en" alt="alemedinabjj" /></p>
 
