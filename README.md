@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre Medina</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Innovation brindes**
-
-- 👯 I’m looking to collaborate on **Infestation** [Infestation](https://infestation.com.br)
-
 - 🤝 I’m looking for help with **Discord server MCC**
-
-- 👨‍💻 All of my projects are available at [https://alexandre-ruddy.vercel.app](https://alexandre-ruddy.vercel.app)
 
 - 💬 Ask me about **React, Typescript, Javascript, Nodejs, Nextjs**
 
