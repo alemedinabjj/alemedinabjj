@@ -15,12 +15,12 @@ Gosto de entregar coisas que dão resultado mensurável, como menos trabalho man
 
 ## Destaques
 
-- **Chatbot de atendimento que substituiu a recepção:** construí com n8n, WhatsApp Business API e OpenAI, usando RAG com embeddings e banco vetorial para responder com base nas informações da empresa. Atende cerca de 200 leads por dia vindos do site e encaminha cada um para os vendedores, sem intervenção manual.
-- **Core Web Vitals de 79 para 100:** diminuí o bundle JS e reduzi as chamadas à API com React Query.
-- **Migração de EC2 + Docker para S3 + CloudFront:** levei os frontends para S3 e CloudFront, o que reduziu custo e tempo de carregamento.
-- **Microfrontends:** implementei com Next.js e Module Federation, usando Nginx como proxy reverso.
-- **LLMs e agentes com MCP:** integrei OpenAI e Anthropic a sistemas em produção, ligando a IA a dados e processos reais da empresa.
-- **SSL wildcard automatizado:** acabou a renovação manual e o gasto com certificados pagos.
+- **Atendimento no WhatsApp sem recepcionista.** Criei o chatbot que hoje atende cerca de 200 leads por dia vindos do site e encaminha cada um para os vendedores, sem ninguém no meio do caminho. Usei n8n, WhatsApp Business API e OpenAI, com RAG (embeddings + banco vetorial) para o bot responder com as informações da própria empresa.
+- **Core Web Vitals de 79 para 100.** Reduzi o bundle JS e passei a busca de dados para o React Query, o que diminuiu as chamadas à API.
+- **Frontends mais baratos e mais rápidos.** Tirei os frontends de EC2 + Docker e passei a servi-los pelo S3 com CloudFront. Caíram o custo e o tempo de carregamento.
+- **IA ligada aos sistemas da empresa.** Integrei LLMs (OpenAI e Anthropic) e agentes com MCP a sistemas em produção, para a IA trabalhar com dados e processos reais em vez de ficar só no chat.
+- **Microfrontends com Module Federation.** Dividi o front em aplicações Next.js separadas, integradas com Module Federation.
+- **SSL sem trabalho manual.** Automatizei os certificados wildcard. Acabaram a renovação manual e o gasto com certificado pago.
 
 ## Experiência
 
@@ -28,6 +28,7 @@ Gosto de entregar coisas que dão resultado mensurável, como menos trabalho man
 Desenvolvedor Front-end (nov/2022 – fev/2024) → Desenvolvedor Full Stack (fev/2024 – set/2026)
 
 - CRMs, e-commerces e dashboards em produção, com Next.js no front e APIs REST/GraphQL em Node.js e NestJS no back
+- Microfrontends com Next.js e Module Federation, com Nginx como proxy reverso na frente das aplicações
 - Painel de atendimento comercial com mensagens em tempo real (WebSockets, Supabase Realtime), integrado ao Gupshup e ao ChatGuru
 - Chatbots no Telegram e automação de Instagram pela Meta Graph API (webhooks, OAuth)
 - E-commerce com checkout Pagar.me, foco em performance e SEO, e integração com transportadoras (Kangu, CargoBR e outras)
