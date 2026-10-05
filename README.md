@@ -15,7 +15,7 @@ Gosto de entregar coisas que dão resultado mensurável, como menos trabalho man
 
 ## Destaques
 
-- **Chatbot de atendimento que substituiu a recepção:** construí com n8n, WhatsApp Business API e OpenAI. Atende cerca de 200 leads por dia vindos do site e encaminha cada um para os vendedores, sem intervenção manual.
+- **Chatbot de atendimento que substituiu a recepção:** construí com n8n, WhatsApp Business API e OpenAI, usando RAG com embeddings e banco vetorial para responder com base nas informações da empresa. Atende cerca de 200 leads por dia vindos do site e encaminha cada um para os vendedores, sem intervenção manual.
 - **Core Web Vitals de 79 para 100:** diminuí o bundle JS e reduzi as chamadas à API com React Query.
 - **Migração de EC2 + Docker para S3 + CloudFront:** levei os frontends para S3 e CloudFront, o que reduziu custo e tempo de carregamento.
 - **Microfrontends:** implementei com Next.js e Module Federation, usando Nginx como proxy reverso.
@@ -144,5 +144,5 @@ Desenvolvedor Front-end
 ### In English
 
 Full Stack Engineer based in Guarulhos, Brazil, building for the web since July 2021. I work with Next.js and React on the front end and Node.js and NestJS on the back end, all in TypeScript. I also build automation and applied AI: WhatsApp chatbots, n8n workflows, and LLMs and MCP agents connected to production systems.
-A few results: a WhatsApp + n8n + OpenAI chatbot that handles about 200 leads a day with no manual routing, Core Web Vitals raised from 79 to 100, and frontends moved from EC2 to S3 + CloudFront to cut cost and load time.
+A few results: a WhatsApp + n8n + OpenAI chatbot with RAG (embeddings and a vector database) that handles about 200 leads a day with no manual routing, Core Web Vitals raised from 79 to 100, and frontends moved from EC2 to S3 + CloudFront to cut cost and load time.
 English: technical/intermediate.
