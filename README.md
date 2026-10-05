@@ -9,18 +9,18 @@
 
 ## Sobre mim
 
-Sou desenvolvedor full stack e trabalho com desenvolvimento web desde julho de 2021. No front uso Next.js e React, no back Node.js e NestJS, sempre com TypeScript.
-Nos últimos anos passei a trabalhar bastante com automação e IA aplicada: chatbots no WhatsApp, fluxos no n8n e integração de LLMs e agentes com sistemas que já estão em produção.
-Gosto de entregar coisas que dão resultado mensurável, como menos trabalho manual, páginas mais rápidas e infraestrutura mais barata.
+Sou desenvolvedor full stack desde julho de 2021. Trabalho com Next.js e React no front e com Node.js e NestJS no back, tudo em TypeScript.
+
+Nos últimos anos tenho trabalhado bastante com automação e IA: chatbots de WhatsApp, fluxos no n8n e integração de LLMs e agentes com sistemas em produção.
 
 ## Destaques
 
-- **Atendimento no WhatsApp sem recepcionista.** Criei o chatbot que hoje atende cerca de 200 leads por dia vindos do site e encaminha cada um para os vendedores, sem ninguém no meio do caminho. Usei n8n, WhatsApp Business API e OpenAI, com RAG (embeddings + banco vetorial) para o bot responder com as informações da própria empresa.
-- **Core Web Vitals de 79 para 100.** Reduzi o bundle JS e passei a busca de dados para o React Query, o que diminuiu as chamadas à API.
-- **Frontends mais baratos e mais rápidos.** Tirei os frontends de EC2 + Docker e passei a servi-los pelo S3 com CloudFront. Caíram o custo e o tempo de carregamento.
-- **IA ligada aos sistemas da empresa.** Integrei LLMs (OpenAI e Anthropic) e agentes com MCP a sistemas em produção, para a IA trabalhar com dados e processos reais em vez de ficar só no chat.
-- **Microfrontends com Module Federation.** Dividi o front em aplicações Next.js separadas, integradas com Module Federation.
-- **SSL sem trabalho manual.** Automatizei os certificados wildcard. Acabaram a renovação manual e o gasto com certificado pago.
+- Fiz o chatbot de WhatsApp que atende os leads do site, uns 200 por dia, e repassa para os vendedores. Com ele a empresa deixou de precisar de recepcionista. Usei n8n, WhatsApp Business API e OpenAI, com RAG (embeddings e banco vetorial) para ele responder com as informações da empresa.
+- Levei o Core Web Vitals de 79 para 100 diminuindo o bundle JS e usando React Query para cortar chamadas à API.
+- Migrei os frontends de EC2 + Docker para S3 + CloudFront, o que baixou o custo e o tempo de carregamento.
+- Integrei LLMs (OpenAI e Anthropic) e agentes com MCP a sistemas em produção.
+- Trabalhei com microfrontends em Next.js usando Module Federation.
+- Automatizei os certificados SSL wildcard, que antes eram renovados na mão e pagos.
 
 ## Experiência
 
@@ -28,7 +28,7 @@ Gosto de entregar coisas que dão resultado mensurável, como menos trabalho man
 Desenvolvedor Front-end (nov/2022 – fev/2024) → Desenvolvedor Full Stack (fev/2024 – set/2026)
 
 - CRMs, e-commerces e dashboards em produção, com Next.js no front e APIs REST/GraphQL em Node.js e NestJS no back
-- Microfrontends com Next.js e Module Federation, com Nginx como proxy reverso na frente das aplicações
+- Microfrontends com Next.js e Module Federation, usando Nginx como proxy reverso
 - Painel de atendimento comercial com mensagens em tempo real (WebSockets, Supabase Realtime), integrado ao Gupshup e ao ChatGuru
 - Chatbots no Telegram e automação de Instagram pela Meta Graph API (webhooks, OAuth)
 - E-commerce com checkout Pagar.me, foco em performance e SEO, e integração com transportadoras (Kangu, CargoBR e outras)
@@ -40,7 +40,7 @@ Desenvolvedor Front-end (nov/2022 – fev/2024) → Desenvolvedor Full Stack (fe
 Desenvolvedor Front-end
 
 - Front-end de aplicações web e mobile para vários clientes com Next.js, TypeScript, Redux e Styled Components
-- Integração com APIs REST junto aos times de back-end, cuidando de acessibilidade e segurança
+- Integração com APIs REST junto com o time de back-end, com atenção a acessibilidade e segurança
 
 ## Stack
 
@@ -120,9 +120,9 @@ Desenvolvedor Front-end
 
 ## No que estou trabalhando
 
-- Agentes de IA que executam tarefas dentro de sistemas reais, e não só respondem perguntas
-- MCP (Model Context Protocol) para dar à IA acesso controlado a dados e ferramentas
-- RAG com embeddings e pgvector para respostas baseadas nos dados da empresa
+- Agentes de IA integrados a sistemas
+- MCP (Model Context Protocol)
+- RAG com embeddings e pgvector
 
 ## Formação
 
@@ -132,18 +132,25 @@ Desenvolvedor Front-end
 
 ## Estatísticas
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alemedinabjj&show_icons=true&locale=en&layout=compact" alt="Linguagens mais usadas" /></p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alemedinabjj&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&border_radius=8" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=alemedinabjj&layout=compact&theme=github_dark&hide_border=true&langs_count=8&border_radius=8" alt="Linguagens mais usadas" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alemedinabjj&show_icons=true&locale=en" alt="Estatísticas do GitHub" /></p>
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=alemedinabjj&theme=github-dark-blue&hide_border=true&border_radius=8" alt="Sequência de contribuições" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alemedinabjj&" alt="Sequência de contribuições" /></p>
-
-![snake gif](https://github.com/alemedinabjj/alemedinabjj/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alemedinabjj/alemedinabjj/output/github-snake-dark.svg" alt="Cobrinha comendo o gráfico de contribuições" />
+</p>
 
 ---
 
 ### In English
 
-Full Stack Engineer based in Guarulhos, Brazil, building for the web since July 2021. I work with Next.js and React on the front end and Node.js and NestJS on the back end, all in TypeScript. I also build automation and applied AI: WhatsApp chatbots, n8n workflows, and LLMs and MCP agents connected to production systems.
-A few results: a WhatsApp + n8n + OpenAI chatbot with RAG (embeddings and a vector database) that handles about 200 leads a day with no manual routing, Core Web Vitals raised from 79 to 100, and frontends moved from EC2 to S3 + CloudFront to cut cost and load time.
-English: technical/intermediate.
+Full stack developer from Guarulhos, Brazil, working since 2021. Next.js and React on the front end, Node.js and NestJS on the back end, TypeScript everywhere. Lately I've been doing a lot of automation and AI work: WhatsApp chatbots, n8n workflows, LLM and MCP integrations.
+
+Some things I've built: a WhatsApp chatbot (n8n + OpenAI + RAG) that handles around 200 leads a day, Core Web Vitals from 79 to 100, and a move from EC2 to S3 + CloudFront that lowered cost and load time.
+
+My English is technical/intermediate.
